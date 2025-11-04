@@ -5,7 +5,6 @@
 
 This project is implemented entirely using **Python**, **Streamlit**, and Python libraries, ensuring local computation without external dependencies. Users can upload Python scripts or multiple algorithm variants for detailed analysis, compare algorithm performance, simulate safe mutations, and visualize code characteristics over time.
 
----
 
 ## Features
 
